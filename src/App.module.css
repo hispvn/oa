@@ -1,0 +1,21 @@
+.AppContainer {
+    display: flex;
+    height: 100%;
+    overflow: auto;
+    color: #212934 !important;
+}
+
+.AppLeft {
+    width: 10%;
+    height: 100%;
+    padding-top: 20px;
+}
+
+.AppRight {
+    flex-grow: 1;
+    height: 100%;
+    background: #f0f0f0;
+}
+div {
+    box-sizing: border-box;
+}

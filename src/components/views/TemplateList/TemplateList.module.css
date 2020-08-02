@@ -1,0 +1,21 @@
+.TemplateListTableCell {
+    text-align: left !important;
+    padding-left: 80px !important;
+}
+
+.SectionNewButtonContainer{
+    height: 3%;
+    padding-top: 5px;
+    text-align-last: right;
+}
+
+.TemplateNewButton {
+    fill: white !important;
+    border-color: rgb(13, 71, 161) !important;
+    background: linear-gradient(rgb(21, 101, 192) 0%, rgb(6, 80, 163) 100%) rgb(43, 97, 179) !important;
+}
+
+.TemplateWarning{
+    width: 380px !important;
+    height: 50px !important;
+}
