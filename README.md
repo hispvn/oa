@@ -35,3 +35,7 @@ You can learn more about the platform in the [DHIS2 Application Platform Documen
 You can learn more about the runtime in the [DHIS2 Application Runtime Documentation](https://runtime.dhis2.nu/).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## User Manual
+
+You can learn how to use this application in the https://docs.google.com/document/d/1hXbHtqR3y7XgIRHemngRfPmJ2oCD3P3pnvfO_THryhM/edit?usp=sharing
