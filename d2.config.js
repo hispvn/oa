@@ -1,6 +1,7 @@
 const config = {
     type: 'app',
-    title: 'Offline Analytic',
+    name: 'offline-analytic-helpers',
+    title: 'Offline Analytic Helpers',
     entryPoints: {
         app: './src/App',
     },

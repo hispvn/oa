@@ -117,7 +117,16 @@ export const CreateExcel = () => {
         <div className={viewClasses.SectionContainer}>
             <div className={viewClasses.SectionTitle}>
                 Create Excel{' '}
-                <FontAwesomeIcon icon={faQuestionCircle} color="#808080" />
+                <FontAwesomeIcon
+                    style={{ cursor: 'pointer' }}
+                    icon={faQuestionCircle}
+                    color="#808080"
+                    onClick={() => {
+                        window.open(
+                            'https://docs.google.com/document/d/1hXbHtqR3y7XgIRHemngRfPmJ2oCD3P3pnvfO_THryhM'
+                        )
+                    }}
+                />
             </div>
             <div className={viewClasses.SectionContentContainer}>
                 <div className={viewClasses.SectionContent}>
